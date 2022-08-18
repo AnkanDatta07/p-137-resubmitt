@@ -1,0 +1,36 @@
+body
+{
+    background-size: cover;
+}
+
+.header
+{
+    width: 100%;
+    font-size: large;
+    font-family: cursive;
+}
+ 
+.on
+{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.on:hover
+{
+    color: red;
+}
+
+.header:hover
+{
+    color: rgb(81, 255, 0);
+}
+
+canvas
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 200px;
+    box-shadow: 5px 5px 5px white;
+}
